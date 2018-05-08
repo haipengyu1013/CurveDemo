@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CurveArea.qml</file>
+        <file>CurveAreastyle2.qml</file>
+    </qresource>
+</RCC>
